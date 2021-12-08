@@ -262,3 +262,19 @@ nav {
     margin-top: -75%;
   }
 }
+
+@media screen and (max-width: 368px) {
+  .col-sm-8 {
+    font-size: 0.55em;
+  }
+  .col-sm-8 h1 {
+    font-size: 2em;
+  }
+  .isi-about {
+    margin-top: -75%;
+  }
+  .judul-about h1 {
+    font-size: 1.6em;
+    margin-top: 30px;
+  }
+}
